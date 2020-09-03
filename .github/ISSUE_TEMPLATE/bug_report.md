@@ -1,5 +1,5 @@
   ---
-name: Bug reportasdsda
+name: Bug reportasdsdasaSsS
 about: Create a report to help us improve
 title: ''
 labels: ''
